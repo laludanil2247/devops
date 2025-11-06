@@ -1,1 +1,13 @@
-Belajar linux permission
+# Catatan Linux Dasar
+Belajar perintah dasar Linux untuk persiapan DevOps.
+
+## Command Penting
+- `ls`, `cd`, `mkdir` untuk navigasi
+- `systemctl` untuk kontrol service
+- `chmod` dan `chown` untuk permission
+
+## Project Mini
+Membuat script `backup.sh` untuk menyalin file otomatis dan mencatat waktu backup.
+
+### Cronjob
+Script dijalankan otomatis setiap 12 jam dengan cron.
